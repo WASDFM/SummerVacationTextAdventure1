@@ -1,0 +1,7 @@
+E:\allCoding\Console Apps\WASDFM Game\WASDFM\WASDFM\bin\Debug\WASDFM.exe.config
+E:\allCoding\Console Apps\WASDFM Game\WASDFM\WASDFM\bin\Debug\WASDFM.exe
+E:\allCoding\Console Apps\WASDFM Game\WASDFM\WASDFM\bin\Debug\WASDFM.pdb
+E:\allCoding\Console Apps\WASDFM Game\WASDFM\WASDFM\obj\Debug\WASDFM.csprojAssemblyReference.cache
+E:\allCoding\Console Apps\WASDFM Game\WASDFM\WASDFM\obj\Debug\WASDFM.csproj.CoreCompileInputs.cache
+E:\allCoding\Console Apps\WASDFM Game\WASDFM\WASDFM\obj\Debug\WASDFM.exe
+E:\allCoding\Console Apps\WASDFM Game\WASDFM\WASDFM\obj\Debug\WASDFM.pdb
